@@ -1,0 +1,4 @@
+TF_VAR_paulo=123456
+TF_VAR_israel=123456
+TF_VAR_jean=123456
+TF_VAR_thiago=123456
